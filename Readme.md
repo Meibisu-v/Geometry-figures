@@ -5,6 +5,7 @@
 **Запуск кода**:
 
 `g++ -std=c++20  *.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system`
+
 `./main`
 
 **Пример вывода программы**:
